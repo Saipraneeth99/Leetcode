@@ -16,7 +16,9 @@ In the `Weekly Challenges` folder, you'll find solutions to the weekly contest p
 
 ### Top Interview Questions
 
-- **Week 1:** The first week is dedicated to tackling problems from the "Top Interview Questions" list curated by LeetCode. This list includes essential problems that frequently appear in technical interviews and are vital for anyone preparing for an upcoming interview. In the `Week 1` folder, you'll find a collection of solutions and explanations to few problems based on my understanding.
+- **Week 1:** The first week is dedicated to tackling problems from the "Top Interview Questions" list curated by LeetCode. This list includes essential problems that frequently appear in technical interviews and are vital for anyone preparing for an upcoming interview. In the `Week 1` folder, you'll find a collection of solutions and explanations to few problems based on my understanding and enriched with the support of ChatGPT.
+This aims to enhance the clarity and accessibility of the material, ensuring it serves as a robust resource for anyone on their interview preparation journey.
+
 
 ## Contributing
 
@@ -27,4 +29,9 @@ While this repository is primarily for my personal development, I welcome any co
 I'll be updating this repository regularly with new solutions and insights. To stay updated with my latest progress, consider starring or watching the repository.
 
 Thank you for visiting my LeetCode journey. Happy coding!
+
+## Acknowledgments
+
+A special thanks to OpenAI's ChatGPT for its assistance in crafting the explanations for the problems solved in this repository. The collaboration with ChatGPT has improved the readability and comprehensibility of the solutions and explanations provided.
+
 
