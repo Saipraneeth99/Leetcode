@@ -17,6 +17,7 @@ In the `Weekly Challenges` folder, you'll find solutions to the weekly contest p
 ### Top Interview Questions
 
 - **Week 1:** The first week is dedicated to tackling problems from the "Top Interview Questions" list curated by LeetCode. This list includes essential problems that frequently appear in technical interviews and are vital for anyone preparing for an upcoming interview. In the `Week 1` folder, you'll find a collection of solutions and explanations to few problems based on my understanding and enriched with the support of ChatGPT.
+- - **Week 2:** The second week is dedicated to few core concepts and math related problems
 This aims to enhance the clarity and accessibility of the material, ensuring it serves as a robust resource for anyone on their interview preparation journey.
 
 
