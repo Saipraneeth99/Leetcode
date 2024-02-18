@@ -12,7 +12,7 @@ The `Daily Challenges` folder is where I upload solutions to the daily problems 
 
 ### Weekly Challenges
 
-In the `Weekly Challenges` folder, you'll find solutions to the weekly contest problems. 
+In the `Weekly Challenges` folder, you'll find solutions to the weekly contest problems starting from February. 
 
 ### Top Interview Questions
 
